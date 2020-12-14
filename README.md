@@ -1,1 +1,2 @@
 # Visualization_Tableau
+  This dataset consist of Indian states and its population, literacy rate, count of graduates and so on. Initially I have found the state population and then the top 10 states having the highest population and their male population. Have found the states having less than 1000000 population. Continued by this have visualized the total literacy rate and the male and female graduates in the state.
